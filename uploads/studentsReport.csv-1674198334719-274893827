@@ -1,0 +1,5 @@
+student Id, Student name,Student college, Student email, Student status, DSA Final Score, WebD Final Score, React Final Score, Interview date, Interview company, Interview result
+63bad0772e7bf464f651edf9,vidya,abcd,abcd@gmail.com,Placed,75,54,89,2023-01-15,abc,PASS
+63bc07378353b2d7c1b287ef,shilpa,QWET,abcad@gmail.com,Placed,78,89,90,2023-01-22,XYZ,On Hold
+63bc12828353b2d7c1b2883b,sharanya,QSA,xyz@gmail.com,Placed,40,70,46,2023-01-16,Amazon,Pass
+63bc14da8353b2d7c1b288a3,Kavya,East West,kavya49@gmail.com,Placed,70,80,56,2023-01-16,Amazon,Pass
